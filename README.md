@@ -20,7 +20,7 @@ Perfect for beginner Python developers to learn functions, UI handling with ipyw
 
 ## 📽️ Preview
 
-![preview](preview.png)
+![preview](Finance_Calculator.mp4)
 
 ---
 
